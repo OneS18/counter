@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+.container .btn {
+  min-height: 50px;
+  min-width: 50px;
+}
